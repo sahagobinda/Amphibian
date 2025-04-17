@@ -1,0 +1,1 @@
+## CIFAR-100 and 5-Datasets data will be downloaded in this folder automatically!
